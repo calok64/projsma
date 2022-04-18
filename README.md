@@ -6,9 +6,9 @@ Social Media Analytics
 - Focus on engagement rates
 
 Notebooks : 
-TikTok : https://github.com/jupyter-naas/awesome-notebooks/tree/master/TikTok
-Twitter : https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter
-LinkedIN : https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn
+- TikTok : https://github.com/jupyter-naas/awesome-notebooks/tree/master/TikTok
+- Twitter : https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter
+- LinkedIN : https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn
 
 Infrastructure & Technology partner:
 
